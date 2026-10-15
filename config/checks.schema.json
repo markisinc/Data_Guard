@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:dataguard:checks:v1",
+  "title": "DataGuard check definitions",
+  "description": "Shared by the Excel add-in (TypeScript) and, later, the Python schema profiler. Thresholds live here, not in code.",
+  "type": "object",
+  "required": ["version", "checks"],
+  "properties": {
+    "version": { "const": 1 },
+    "checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "dimension", "severity", "params"],
+        "properties": {
+          "id": { "enum": ["duplicates", "blankKeys", "textNumbers", "nonNumeric", "mixedCurrency", "placeholders", "idFormat", "dateQuality", "variants", "consistency", "totals", "suspicious", "encoding", "repeated", "offTrend"] },
+          "name": { "type": "string" },
+          "dimension": {
+            "description": "DAMA/ISO data quality dimension",
+            "enum": ["accuracy", "completeness", "consistency", "validity", "uniqueness", "timeliness"]
+          },
+          "severity": { "enum": ["high", "medium", "low", "info"] },
+          "params": { "type": "object" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

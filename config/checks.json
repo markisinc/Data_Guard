@@ -1,0 +1,145 @@
+{
+  "$schema": "./checks.schema.json",
+  "version": 1,
+  "checks": [
+    {
+      "id": "duplicates",
+      "name": "Duplicate IDs",
+      "dimension": "uniqueness",
+      "severity": "high",
+      "params": {
+        "ignoreCase": true,
+        "collapseSpaces": true
+      }
+    },
+    {
+      "id": "blankKeys",
+      "name": "Blank IDs",
+      "dimension": "completeness",
+      "severity": "medium",
+      "params": {}
+    },
+    {
+      "id": "textNumbers",
+      "name": "Numbers stored as text",
+      "dimension": "validity",
+      "severity": "high",
+      "params": {
+        "minNumericShare": 0.6
+      }
+    },
+    {
+      "id": "mixedCurrency",
+      "name": "Mixed currencies in one column",
+      "dimension": "consistency",
+      "severity": "high",
+      "params": {}
+    },
+    {
+      "id": "placeholders",
+      "name": "Placeholders for missing data",
+      "dimension": "completeness",
+      "severity": "medium",
+      "params": {}
+    },
+    {
+      "id": "nonNumeric",
+      "name": "Words in a number column",
+      "dimension": "validity",
+      "severity": "medium",
+      "params": {}
+    },
+    {
+      "id": "idFormat",
+      "name": "ID format",
+      "dimension": "consistency",
+      "severity": "medium",
+      "params": {
+        "minShare": 0.8,
+        "minValues": 20
+      }
+    },
+    {
+      "id": "dateQuality",
+      "name": "Date sanity",
+      "dimension": "validity",
+      "severity": "high",
+      "params": {
+        "futureGraceDays": 31,
+        "farPastDays": 365
+      }
+    },
+    {
+      "id": "variants",
+      "name": "Spelling variants",
+      "dimension": "consistency",
+      "severity": "medium",
+      "params": {
+        "maxDistinct": 60,
+        "maxDistinctShare": 0.02,
+        "rareShare": 0.1
+      }
+    },
+    {
+      "id": "consistency",
+      "name": "Same ID, different values",
+      "dimension": "consistency",
+      "severity": "medium",
+      "params": {
+        "minGroups": 10,
+        "minAgreement": 0.9
+      }
+    },
+    {
+      "id": "totals",
+      "name": "Totals that don't add up",
+      "dimension": "accuracy",
+      "severity": "high",
+      "params": {
+        "minShare": 0.85,
+        "minRows": 20
+      }
+    },
+    {
+      "id": "suspicious",
+      "name": "Stand-in numbers",
+      "dimension": "accuracy",
+      "severity": "medium",
+      "params": {}
+    },
+    {
+      "id": "encoding",
+      "name": "Garbled accents",
+      "dimension": "validity",
+      "severity": "medium",
+      "params": {}
+    },
+    {
+      "id": "repeated",
+      "name": "Shared personal values and malformed emails",
+      "dimension": "validity",
+      "severity": "medium",
+      "params": {
+        "minSpread": 10,
+        "timesTypical": 10
+      }
+    },
+    {
+      "id": "offTrend",
+      "name": "Off-trend totals",
+      "dimension": "accuracy",
+      "severity": "medium",
+      "params": {
+        "threshold": 0.3,
+        "minChange": 0.1,
+        "highThreshold": 0.5,
+        "lookback": 6,
+        "minPriorsForRobust": 4,
+        "robustZ": 3.0,
+        "incompleteGraceDays": 3,
+        "minRowsPerPeriod": 10,
+        "maxStoredPeriods": 36
+      }
+    }
+  ]
+}

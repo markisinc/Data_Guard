@@ -1,0 +1,3857 @@
+{
+"tableName": "Ventas",
+"sheet": "Ventas",
+"address": "Ventas!A1:F121",
+"headers": [
+"Nro Factura",
+"Fecha",
+"Cliente",
+"Producto",
+"Cantidad",
+"Importe"
+],
+"rows": [
+[
+{
+"v": "FA-0001-00001200",
+"t": "FA-0001-00001200",
+"f": "General"
+},
+{
+"v": 46266,
+"t": "01/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 26791.46,
+"t": "$26.791,46",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001201",
+"t": "FA-0001-00001201",
+"f": "General"
+},
+{
+"v": 46266,
+"t": "01/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 18631.8,
+"t": "$18.631,80",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001202",
+"t": "FA-0001-00001202",
+"f": "General"
+},
+{
+"v": 46266,
+"t": "01/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 27878.39,
+"t": "$27.878,39",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001203",
+"t": "FA-0001-00001203",
+"f": "General"
+},
+{
+"v": 46266,
+"t": "01/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 19787.67,
+"t": "$19.787,67",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001204",
+"t": "FA-0001-00001204",
+"f": "General"
+},
+{
+"v": 46267,
+"t": "02/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 20163.35,
+"t": "$20.163,35",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001205",
+"t": "FA-0001-00001205",
+"f": "General"
+},
+{
+"v": 46267,
+"t": "02/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 28194.25,
+"t": "$28.194,25",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001206",
+"t": "FA-0001-00001206",
+"f": "General"
+},
+{
+"v": 46267,
+"t": "02/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 32149.0,
+"t": "$32.149,00",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001207",
+"t": "FA-0001-00001207",
+"f": "General"
+},
+{
+"v": 46267,
+"t": "02/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 20867.7,
+"t": "$20.867,70",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001208",
+"t": "FA-0001-00001208",
+"f": "General"
+},
+{
+"v": 46268,
+"t": "03/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": "$ 12.345,50",
+"t": "$ 12.345,50",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001209",
+"t": "FA-0001-00001209",
+"f": "General"
+},
+{
+"v": 46268,
+"t": "03/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 25241.03,
+"t": "$25.241,03",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001210",
+"t": "FA-0001-00001210",
+"f": "General"
+},
+{
+"v": 46268,
+"t": "03/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 30341.78,
+"t": "$30.341,78",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001211",
+"t": "FA-0001-00001211",
+"f": "General"
+},
+{
+"v": 46268,
+"t": "03/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 20152.78,
+"t": "$20.152,78",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001212",
+"t": "FA-0001-00001212",
+"f": "General"
+},
+{
+"v": 46269,
+"t": "04/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 20380.83,
+"t": "$20.380,83",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001213",
+"t": "FA-0001-00001213",
+"f": "General"
+},
+{
+"v": 46269,
+"t": "04/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29652.44,
+"t": "$29.652,44",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001214",
+"t": "FA-0001-00001214",
+"f": "General"
+},
+{
+"v": 46269,
+"t": "04/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 32032.52,
+"t": "$32.032,52",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001215",
+"t": "FA-0001-00001215",
+"f": "General"
+},
+{
+"v": 46269,
+"t": "04/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 23559.77,
+"t": "$23.559,77",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001216",
+"t": "FA-0001-00001216",
+"f": "General"
+},
+{
+"v": 46270,
+"t": "05/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29041.2,
+"t": "$29.041,20",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001217",
+"t": "FA-0001-00001217",
+"f": "General"
+},
+{
+"v": 46270,
+"t": "05/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 26566.93,
+"t": "$26.566,93",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001218",
+"t": "FA-0001-00001218",
+"f": "General"
+},
+{
+"v": 46270,
+"t": "05/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29606.99,
+"t": "$29.606,99",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001219",
+"t": "FA-0001-00001219",
+"f": "General"
+},
+{
+"v": 46270,
+"t": "05/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": "12.345,50",
+"t": "12.345,50",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001220",
+"t": "FA-0001-00001220",
+"f": "General"
+},
+{
+"v": 46271,
+"t": "06/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 30350.52,
+"t": "$30.350,52",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001221",
+"t": "FA-0001-00001221",
+"f": "General"
+},
+{
+"v": 46271,
+"t": "06/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 25377.48,
+"t": "$25.377,48",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001222",
+"t": "FA-0001-00001222",
+"f": "General"
+},
+{
+"v": 46271,
+"t": "06/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 21422.98,
+"t": "$21.422,98",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001223",
+"t": "FA-0001-00001223",
+"f": "General"
+},
+{
+"v": 46271,
+"t": "06/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 18594.14,
+"t": "$18.594,14",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001224",
+"t": "FA-0001-00001224",
+"f": "General"
+},
+{
+"v": 46272,
+"t": "07/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 32366.86,
+"t": "$32.366,86",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001225",
+"t": "FA-0001-00001225",
+"f": "General"
+},
+{
+"v": 46272,
+"t": "07/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 29202.98,
+"t": "$29.202,98",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001226",
+"t": "FA-0001-00001226",
+"f": "General"
+},
+{
+"v": 46272,
+"t": "07/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 26864.04,
+"t": "$26.864,04",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001227",
+"t": "FA-0001-00001227",
+"f": "General"
+},
+{
+"v": 46272,
+"t": "07/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": "8.900",
+"t": "8.900",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001228",
+"t": "FA-0001-00001228",
+"f": "General"
+},
+{
+"v": 46273,
+"t": "08/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22132.43,
+"t": "$22.132,43",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001229",
+"t": "FA-0001-00001229",
+"f": "General"
+},
+{
+"v": 46273,
+"t": "08/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22317.07,
+"t": "$22.317,07",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001230",
+"t": "FA-0001-00001230",
+"f": "General"
+},
+{
+"v": 46273,
+"t": "08/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 29101.53,
+"t": "$29.101,53",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001231",
+"t": "FA-0001-00001231",
+"f": "General"
+},
+{
+"v": 46273,
+"t": "08/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 29640.46,
+"t": "$29.640,46",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001232",
+"t": "FA-0001-00001232",
+"f": "General"
+},
+{
+"v": 46274,
+"t": "09/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 20998.74,
+"t": "$20.998,74",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001233",
+"t": "FA-0001-00001233",
+"f": "General"
+},
+{
+"v": 46274,
+"t": "09/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 20743.43,
+"t": "$20.743,43",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001234",
+"t": "FA-0001-00001234",
+"f": "General"
+},
+{
+"v": 46274,
+"t": "09/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 23016.37,
+"t": "$23.016,37",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001235",
+"t": "FA-0001-00001235",
+"f": "General"
+},
+{
+"v": 46274,
+"t": "09/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 25439.25,
+"t": "$25.439,25",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001236",
+"t": "FA-0001-00001236",
+"f": "General"
+},
+{
+"v": 46275,
+"t": "10/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 32161.07,
+"t": "$32.161,07",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001237",
+"t": "FA-0001-00001237",
+"f": "General"
+},
+{
+"v": 46275,
+"t": "10/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29483.42,
+"t": "$29.483,42",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001238",
+"t": "FA-0001-00001238",
+"f": "General"
+},
+{
+"v": 46275,
+"t": "10/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 19940.87,
+"t": "$19.940,87",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001239",
+"t": "FA-0001-00001239",
+"f": "General"
+},
+{
+"v": 46275,
+"t": "10/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 20942.45,
+"t": "$20.942,45",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001212",
+"t": "FA-0001-00001212",
+"f": "General"
+},
+{
+"v": 46276,
+"t": "11/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 21095.74,
+"t": "$21.095,74",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001241",
+"t": "FA-0001-00001241",
+"f": "General"
+},
+{
+"v": 46276,
+"t": "11/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 20213.71,
+"t": "$20.213,71",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001242",
+"t": "FA-0001-00001242",
+"f": "General"
+},
+{
+"v": 46276,
+"t": "11/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 27722.4,
+"t": "$27.722,40",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001243",
+"t": "FA-0001-00001243",
+"f": "General"
+},
+{
+"v": 46276,
+"t": "11/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 25953.62,
+"t": "$25.953,62",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001244",
+"t": "FA-0001-00001244",
+"f": "General"
+},
+{
+"v": 46277,
+"t": "12/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29347.98,
+"t": "$29.347,98",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001245",
+"t": "FA-0001-00001245",
+"f": "General"
+},
+{
+"v": 46277,
+"t": "12/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": "$ 1.234,00",
+"t": "$ 1.234,00",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001246",
+"t": "FA-0001-00001246",
+"f": "General"
+},
+{
+"v": 46277,
+"t": "12/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 26672.15,
+"t": "$26.672,15",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001247",
+"t": "FA-0001-00001247",
+"f": "General"
+},
+{
+"v": 46277,
+"t": "12/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 25961.4,
+"t": "$25.961,40",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001248",
+"t": "FA-0001-00001248",
+"f": "General"
+},
+{
+"v": 46278,
+"t": "13/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22558.8,
+"t": "$22.558,80",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001249",
+"t": "FA-0001-00001249",
+"f": "General"
+},
+{
+"v": 46278,
+"t": "13/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 23586.41,
+"t": "$23.586,41",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001250",
+"t": "FA-0001-00001250",
+"f": "General"
+},
+{
+"v": 46278,
+"t": "13/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29030.83,
+"t": "$29.030,83",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001251",
+"t": "FA-0001-00001251",
+"f": "General"
+},
+{
+"v": 46278,
+"t": "13/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 25073.59,
+"t": "$25.073,59",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001252",
+"t": "FA-0001-00001252",
+"f": "General"
+},
+{
+"v": 46279,
+"t": "14/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": "US$ 1,200.00",
+"t": "US$ 1,200.00",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001253",
+"t": "FA-0001-00001253",
+"f": "General"
+},
+{
+"v": 46279,
+"t": "14/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22907.62,
+"t": "$22.907,62",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001254",
+"t": "FA-0001-00001254",
+"f": "General"
+},
+{
+"v": 46279,
+"t": "14/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 23646.0,
+"t": "$23.646,00",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001255",
+"t": "FA-0001-00001255",
+"f": "General"
+},
+{
+"v": 46279,
+"t": "14/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29965.35,
+"t": "$29.965,35",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001256",
+"t": "FA-0001-00001256",
+"f": "General"
+},
+{
+"v": 46280,
+"t": "15/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 24888.96,
+"t": "$24.888,96",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001257",
+"t": "FA-0001-00001257",
+"f": "General"
+},
+{
+"v": 46280,
+"t": "15/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 32191.27,
+"t": "$32.191,27",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001258",
+"t": "FA-0001-00001258",
+"f": "General"
+},
+{
+"v": 46280,
+"t": "15/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 26820.0,
+"t": "$26.820,00",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001259",
+"t": "FA-0001-00001259",
+"f": "General"
+},
+{
+"v": 46280,
+"t": "15/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 21067.77,
+"t": "$21.067,77",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001260",
+"t": "FA-0001-00001260",
+"f": "General"
+},
+{
+"v": 46281,
+"t": "16/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 23817.49,
+"t": "$23.817,49",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001261",
+"t": "FA-0001-00001261",
+"f": "General"
+},
+{
+"v": 46281,
+"t": "16/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 26198.57,
+"t": "$26.198,57",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001262",
+"t": "FA-0001-00001262",
+"f": "General"
+},
+{
+"v": 46281,
+"t": "16/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 21311.29,
+"t": "$21.311,29",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001263",
+"t": "FA-0001-00001263",
+"f": "General"
+},
+{
+"v": 46281,
+"t": "16/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": "15.000,00",
+"t": "15.000,00",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001264",
+"t": "FA-0001-00001264",
+"f": "General"
+},
+{
+"v": 46282,
+"t": "17/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 27337.91,
+"t": "$27.337,91",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001265",
+"t": "FA-0001-00001265",
+"f": "General"
+},
+{
+"v": 46282,
+"t": "17/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 21312.01,
+"t": "$21.312,01",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001266",
+"t": "FA-0001-00001266",
+"f": "General"
+},
+{
+"v": 46282,
+"t": "17/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22826.92,
+"t": "$22.826,92",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001267",
+"t": "FA-0001-00001267",
+"f": "General"
+},
+{
+"v": 46282,
+"t": "17/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22901.66,
+"t": "$22.901,66",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001268",
+"t": "FA-0001-00001268",
+"f": "General"
+},
+{
+"v": 46283,
+"t": "18/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 23623.65,
+"t": "$23.623,65",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001269",
+"t": "FA-0001-00001269",
+"f": "General"
+},
+{
+"v": 46283,
+"t": "18/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 20957.94,
+"t": "$20.957,94",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001270",
+"t": "FA-0001-00001270",
+"f": "General"
+},
+{
+"v": 46283,
+"t": "18/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 950.0,
+"t": "US$950,00",
+"f": "\"US$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001271",
+"t": "FA-0001-00001271",
+"f": "General"
+},
+{
+"v": 46283,
+"t": "18/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 20800.78,
+"t": "$20.800,78",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001272",
+"t": "FA-0001-00001272",
+"f": "General"
+},
+{
+"v": 46284,
+"t": "19/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 28754.59,
+"t": "$28.754,59",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001273",
+"t": "FA-0001-00001273",
+"f": "General"
+},
+{
+"v": 46284,
+"t": "19/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 29611.26,
+"t": "$29.611,26",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001274",
+"t": "FA-0001-00001274",
+"f": "General"
+},
+{
+"v": 46284,
+"t": "19/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 26590.82,
+"t": "$26.590,82",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001275",
+"t": "FA-0001-00001275",
+"f": "General"
+},
+{
+"v": 46284,
+"t": "19/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 28227.66,
+"t": "$28.227,66",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001276",
+"t": "FA-0001-00001276",
+"f": "General"
+},
+{
+"v": 46285,
+"t": "20/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 27689.78,
+"t": "$27.689,78",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001205 ",
+"t": "FA-0001-00001205 ",
+"f": "General"
+},
+{
+"v": 46285,
+"t": "20/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22890.8,
+"t": "$22.890,80",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001278",
+"t": "FA-0001-00001278",
+"f": "General"
+},
+{
+"v": 46285,
+"t": "20/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22404.57,
+"t": "$22.404,57",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001279",
+"t": "FA-0001-00001279",
+"f": "General"
+},
+{
+"v": 46285,
+"t": "20/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 19443.14,
+"t": "$19.443,14",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001280",
+"t": "FA-0001-00001280",
+"f": "General"
+},
+{
+"v": 46286,
+"t": "21/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 21226.33,
+"t": "$21.226,33",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001281",
+"t": "FA-0001-00001281",
+"f": "General"
+},
+{
+"v": 46286,
+"t": "21/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 21696.9,
+"t": "$21.696,90",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001282",
+"t": "FA-0001-00001282",
+"f": "General"
+},
+{
+"v": 46286,
+"t": "21/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 27771.61,
+"t": "$27.771,61",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001283",
+"t": "FA-0001-00001283",
+"f": "General"
+},
+{
+"v": 46286,
+"t": "21/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 25450.11,
+"t": "$25.450,11",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001284",
+"t": "FA-0001-00001284",
+"f": "General"
+},
+{
+"v": 46287,
+"t": "22/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 24809.38,
+"t": "$24.809,38",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001285",
+"t": "FA-0001-00001285",
+"f": "General"
+},
+{
+"v": 46287,
+"t": "22/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 23217.18,
+"t": "$23.217,18",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001286",
+"t": "FA-0001-00001286",
+"f": "General"
+},
+{
+"v": 46287,
+"t": "22/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 23724.0,
+"t": "$23.724,00",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001287",
+"t": "FA-0001-00001287",
+"f": "General"
+},
+{
+"v": 46287,
+"t": "22/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 19655.57,
+"t": "$19.655,57",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001288",
+"t": "FA-0001-00001288",
+"f": "General"
+},
+{
+"v": 46288,
+"t": "23/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": "(2.500,00)",
+"t": "(2.500,00)",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001289",
+"t": "FA-0001-00001289",
+"f": "General"
+},
+{
+"v": 46288,
+"t": "23/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 26135.74,
+"t": "$26.135,74",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "fa-0001-00001233",
+"t": "fa-0001-00001233",
+"f": "General"
+},
+{
+"v": 46288,
+"t": "23/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 23571.92,
+"t": "$23.571,92",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001291",
+"t": "FA-0001-00001291",
+"f": "General"
+},
+{
+"v": 46288,
+"t": "23/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 23388.06,
+"t": "$23.388,06",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001292",
+"t": "FA-0001-00001292",
+"f": "General"
+},
+{
+"v": 46289,
+"t": "24/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 26016.3,
+"t": "$26.016,30",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001293",
+"t": "FA-0001-00001293",
+"f": "General"
+},
+{
+"v": 46289,
+"t": "24/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 29673.92,
+"t": "$29.673,92",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001294",
+"t": "FA-0001-00001294",
+"f": "General"
+},
+{
+"v": 46289,
+"t": "24/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 26161.28,
+"t": "$26.161,28",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001295",
+"t": "FA-0001-00001295",
+"f": "General"
+},
+{
+"v": 46289,
+"t": "24/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 23077.93,
+"t": "$23.077,93",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001296",
+"t": "FA-0001-00001296",
+"f": "General"
+},
+{
+"v": 46290,
+"t": "25/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 19629.9,
+"t": "$19.629,90",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001297",
+"t": "FA-0001-00001297",
+"f": "General"
+},
+{
+"v": 46290,
+"t": "25/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 18761.12,
+"t": "$18.761,12",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001298",
+"t": "FA-0001-00001298",
+"f": "General"
+},
+{
+"v": 46290,
+"t": "25/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 19249.81,
+"t": "$19.249,81",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001299",
+"t": "FA-0001-00001299",
+"f": "General"
+},
+{
+"v": 46290,
+"t": "25/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 21673.61,
+"t": "$21.673,61",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001300",
+"t": "FA-0001-00001300",
+"f": "General"
+},
+{
+"v": 46291,
+"t": "26/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 29038.19,
+"t": "$29.038,19",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": null,
+"t": "",
+"f": "General"
+},
+{
+"v": 46291,
+"t": "26/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Silicona",
+"t": "Silicona",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22631.76,
+"t": "$22.631,76",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001302",
+"t": "FA-0001-00001302",
+"f": "General"
+},
+{
+"v": 46291,
+"t": "26/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Ferretería Norte",
+"t": "Ferretería Norte",
+"f": "General"
+},
+{
+"v": "Taladro",
+"t": "Taladro",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 23357.85,
+"t": "$23.357,85",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001303",
+"t": "FA-0001-00001303",
+"f": "General"
+},
+{
+"v": 46291,
+"t": "26/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 22231.14,
+"t": "$22.231,14",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001304",
+"t": "FA-0001-00001304",
+"f": "General"
+},
+{
+"v": 46292,
+"t": "27/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 20430.21,
+"t": "$20.430,21",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001305",
+"t": "FA-0001-00001305",
+"f": "General"
+},
+{
+"v": 46292,
+"t": "27/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Distribuidora Sur",
+"t": "Distribuidora Sur",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 12,
+"t": "12",
+"f": "General"
+},
+{
+"v": 31709.9,
+"t": "$31.709,90",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001306",
+"t": "FA-0001-00001306",
+"f": "General"
+},
+{
+"v": 46292,
+"t": "27/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Panadería La Espiga",
+"t": "Panadería La Espiga",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 19852.08,
+"t": "$19.852,08",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001307",
+"t": "FA-0001-00001307",
+"f": "General"
+},
+{
+"v": 46292,
+"t": "27/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 29377.34,
+"t": "$29.377,34",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001308",
+"t": "FA-0001-00001308",
+"f": "General"
+},
+{
+"v": 46293,
+"t": "28/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 20855.54,
+"t": "$20.855,54",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001309",
+"t": "FA-0001-00001309",
+"f": "General"
+},
+{
+"v": 46293,
+"t": "28/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Pintura 4L",
+"t": "Pintura 4L",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 21642.82,
+"t": "$21.642,82",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001310",
+"t": "FA-0001-00001310",
+"f": "General"
+},
+{
+"v": 46293,
+"t": "28/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": "4.321,10",
+"t": "4.321,10",
+"f": "General"
+}
+],
+[
+{
+"v": "FA-0001-00001311",
+"t": "FA-0001-00001311",
+"f": "General"
+},
+{
+"v": 46293,
+"t": "28/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 27500.39,
+"t": "$27.500,39",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001312",
+"t": "FA-0001-00001312",
+"f": "General"
+},
+{
+"v": 46294,
+"t": "29/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 26214.72,
+"t": "$26.214,72",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001313",
+"t": "FA-0001-00001313",
+"f": "General"
+},
+{
+"v": 46294,
+"t": "29/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 18458.99,
+"t": "$18.458,99",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001314",
+"t": "FA-0001-00001314",
+"f": "General"
+},
+{
+"v": 46294,
+"t": "29/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Librería Belgrano",
+"t": "Librería Belgrano",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 26380.99,
+"t": "$26.380,99",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001315",
+"t": "FA-0001-00001315",
+"f": "General"
+},
+{
+"v": 46294,
+"t": "29/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Corralón Central",
+"t": "Corralón Central",
+"f": "General"
+},
+{
+"v": "Lija fina",
+"t": "Lija fina",
+"f": "General"
+},
+{
+"v": 11,
+"t": "11",
+"f": "General"
+},
+{
+"v": 28188.64,
+"t": "$28.188,64",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001316",
+"t": "FA-0001-00001316",
+"f": "General"
+},
+{
+"v": 46295,
+"t": "30/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Almacén Don José",
+"t": "Almacén Don José",
+"f": "General"
+},
+{
+"v": "Cable 2.5mm",
+"t": "Cable 2.5mm",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 25750.97,
+"t": "$25.750,97",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001317",
+"t": "FA-0001-00001317",
+"f": "General"
+},
+{
+"v": 46295,
+"t": "30/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 9,
+"t": "9",
+"f": "General"
+},
+{
+"v": 23696.23,
+"t": "$23.696,23",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001318",
+"t": "FA-0001-00001318",
+"f": "General"
+},
+{
+"v": 46295,
+"t": "30/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Kiosco 24",
+"t": "Kiosco 24",
+"f": "General"
+},
+{
+"v": "Tornillos x100",
+"t": "Tornillos x100",
+"f": "General"
+},
+{
+"v": 10,
+"t": "10",
+"f": "General"
+},
+{
+"v": 26927.53,
+"t": "$26.927,53",
+"f": "\"$\"#,##0.00"
+}
+],
+[
+{
+"v": "FA-0001-00001319",
+"t": "FA-0001-00001319",
+"f": "General"
+},
+{
+"v": 46295,
+"t": "30/09/2026",
+"f": "dd/mm/yyyy"
+},
+{
+"v": "Mayorista Oeste",
+"t": "Mayorista Oeste",
+"f": "General"
+},
+{
+"v": "Cemento 50kg",
+"t": "Cemento 50kg",
+"f": "General"
+},
+{
+"v": 8,
+"t": "8",
+"f": "General"
+},
+{
+"v": 20401.43,
+"t": "$20.401,43",
+"f": "\"$\"#,##0.00"
+}
+]
+],
+"firstRow": 1,
+"firstCol": 0
+}

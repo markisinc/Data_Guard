@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>DataGuard for Excel</title>
+<link rel="icon" href="assets/icon-32.png" />
+<style>
+  :root { --ink:#1d1d1b; --muted:#6b6b66; --line:#e3e2dd; --accent:#1f4e78; --bg:#f7f7f5; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.55 'Segoe UI', system-ui, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 24px; margin: 0 0 4px; } h2 { font-size: 17px; margin: 28px 0 8px; }
+  .muted { color: var(--muted); } code { background:#ecebe6; padding: 1px 4px; border-radius: 3px; }
+  .btn { display:inline-block; background:var(--accent); color:#fff; padding:9px 14px; border-radius:5px; text-decoration:none; font-weight:600; }
+  ol li { margin: 4px 0; } .box { background:#fff; border:1px solid var(--line); border-radius:6px; padding: 4px 16px 12px; margin-top: 12px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>◆ DataGuard for Excel</h1>
+  <p class="muted">Finds duplicate IDs, placeholders, numbers stored as text, spelling variants, totals that don't add up and more, in any Excel table. Everything runs inside Excel: your data is never sent anywhere.</p>
+  <p><a class="btn" href="manifest.xml" download="dataguard-manifest.xml">Download the add-in file (manifest.xml)</a></p>
+
+  <div class="box">
+  <h2>Install in Excel on the web (easiest)</h2>
+  <ol>
+    <li>Open any workbook in Excel on the web (office.com).</li>
+    <li><b>Home</b> → <b>Add-ins</b> → <b>More Settings</b> (or <b>More add-ins</b>).</li>
+    <li>Choose <b>Upload My Add-in</b>, browse to the file you downloaded, and select <b>Upload</b>.</li>
+    <li>Open the <b>Data</b> tab → <b>Check data</b>.</li>
+  </ol>
+  <p class="muted">The browser remembers it; if you clear your browser data or switch browser, upload it again.</p>
+  </div>
+
+  <div class="box">
+  <h2>Install in Excel for Windows (desktop)</h2>
+  <ol>
+    <li>Put the downloaded file in a folder, right-click the folder → <b>Properties</b> → <b>Sharing</b> → <b>Share</b>, and note its network path (like <code>\\YOUR-PC\addins</code>).</li>
+    <li>In Excel: <b>File</b> → <b>Options</b> → <b>Trust Center</b> → <b>Trust Center Settings</b> → <b>Trusted Add-in Catalogs</b>. Paste the network path, <b>Add catalog</b>, tick <b>Show in Menu</b>, OK, and restart Excel.</li>
+    <li><b>Home</b> → <b>Add-ins</b> → <b>Advanced</b> (or <b>My Add-ins</b>) → <b>SHARED FOLDER</b> → <b>DataGuard</b> → <b>Add</b>.</li>
+  </ol>
+  <p class="muted">Work laptops sometimes block add-ins you install yourself. If so, use Excel on the web, or ask IT.</p>
+  </div>
+
+  <h2>Using it</h2>
+  <ol>
+    <li>Click any cell inside your table, then <b>Check this table</b>.</li>
+    <li>Confirm the ID column, the date column and the totals to watch (asked once per table).</li>
+    <li>Work through the <b>Fix order</b> tab. Every fix shows a preview, and <b>Undo last fix</b> puts things back.</li>
+  </ol>
+  <p class="muted">Rules, a monthly summary and a hidden change log are saved inside the workbook so they travel with the file.</p>
+</main>
+</body>
+</html>

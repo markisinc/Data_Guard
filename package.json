@@ -1,0 +1,37 @@
+{
+  "name": "dataguard-excel",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DataGuard v1.0 - Excel task pane add-in: duplicate IDs, numbers stored as text, off-trend totals",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev-server": "vite",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run",
+    "fixtures": "python fixtures/make_fixtures.py",
+    "certs": "office-addin-dev-certs install",
+    "start": "office-addin-debugging start manifest.xml desktop --app excel",
+    "stop": "office-addin-debugging stop manifest.xml",
+    "validate": "office-addin-manifest validate manifest.xml",
+    "build:pages": "npm run build && node scripts/make-manifest.mjs",
+    "sync-vocab": "node scripts/sync-vocab.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/office-js": "^1.0.449",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "office-addin-debugging": "^7.0.1",
+    "office-addin-dev-certs": "^3.0.1",
+    "office-addin-manifest": "^3.0.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8",
+    "yaml": "^2.6.1"
+  }
+}
