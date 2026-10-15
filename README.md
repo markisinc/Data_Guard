@@ -148,3 +148,5 @@ dev/             mock Office.js for browser testing
 - **No day-one baseline from one-sheet-per-month workbooks yet.** That's the backfill idea; it isn't built.
 - **Manifest validation needs internet.** `npm run validate` couldn't reach Microsoft's service from the build
   machine, so run it locally.
+#   D a t a _ G u a r d  
+ 
